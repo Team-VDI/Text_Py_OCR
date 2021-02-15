@@ -16,7 +16,7 @@ Please make sure you read the OneNote file on all of this, or this wont make any
 - Skimage
 ```
 
-_Works on Window and Mac-OS_
+_Works on Windows and Mac-OS_
 
 
 
